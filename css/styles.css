@@ -1,0 +1,53 @@
+*{
+	padding:0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.curved {
+	background:#217987;
+	color:#fff;
+	text-align: center;
+	padding:20px;
+}
+.curved h1{
+	font-size: 3rem;
+	/* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+	margin-top:0;
+}
+.curved p{
+	font-size: 1rem;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin: 0 5rem 0 5rem;
+}
+.curved svg{
+	display: block;
+}
+h2{
+	color:#217987;
+	letter-spacing: .4rem;
+}
+p{
+	text-align: center;
+	margin-top: 40px;
+}
+.sectitle{
+	float:right;
+	
+	
+	
+}
+.sec2  {
+	margin: 80px;
+}
+.sec1{
+	margin: 80px;
+}
+footer{
+	background-color:rgb(30, 42, 42);
+	padding-bottom: 100px;
+}
+h6{
+	color: #fff;
+	text-align: center;
+	padding-top: 40px;
+}
