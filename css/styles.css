@@ -66,6 +66,10 @@ h6{
 	  background-color: green;
 	}
   } 
+  .flex{
+	display:flex;
+	justify-content:flex-start ;
+  }
   
   
   
